@@ -1,11 +1,11 @@
 <p align="center">
 <b> Hello There! I hope you like what you see on my github!<b>
  <br>
-<img src="https://raw.githubusercontent.com/iam-abbas/iam-abbas/master/pikachu.gif">
+<img onclick="alert('Pika Pika');" src="https://raw.githubusercontent.com/iam-abbas/iam-abbas/master/pikachu.gif">
  <br>
  <br>
  <br>
- <sub>Get in touch if you would like to work together. <a href="https://linkedin.com/in/iam-abbas" target="_blank">Find Me.</a></sub>
+ <sub>Get in touch if you would like to work together. <a href="https://linkedin.com/in/abbas-mj" onclick="return ! window.open(this.href);" >Find Me.</a></sub>
 </p>
 <!--
 **iam-abbas/iam-abbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
