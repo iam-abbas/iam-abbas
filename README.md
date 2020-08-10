@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<center>
+<img src="https://raw.githubusercontent.com/iam-abbas/iam-abbas/master/pikachu.gif">
+ </center>
 <!--
 **iam-abbas/iam-abbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
